@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\senai-codback-ativ2.props" />
+</Project>

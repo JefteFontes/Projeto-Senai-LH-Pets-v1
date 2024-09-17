@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VrcfKU0Lxke9vxoKlzb91vnrvbleupsv8D4drAYHUZ4=",
+  "Source": "senai-codback-ativ2",
+  "BasePath": "_content/senai-codback-ativ2",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "senai-codback-ativ2\\wwwroot",
+      "Source": "senai-codback-ativ2",
+      "ContentRoot": "C:\\Users\\jefte\\Desktop\\senai-codback-ativ2\\wwwroot\\",
+      "BasePath": "_content/senai-codback-ativ2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jefte\\Desktop\\senai-codback-ativ2\\wwwroot\\index.html",
+      "SourceId": "senai-codback-ativ2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jefte\\Desktop\\senai-codback-ativ2\\wwwroot\\",
+      "BasePath": "_content/senai-codback-ativ2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
